@@ -15,6 +15,6 @@ chmod +x hack.bat
 
 ```bash
 ./hack.bat
-
+```
 
 it will take some time.
