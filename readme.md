@@ -11,3 +11,7 @@ Working in any launcher, including Android launchers.
 
 ```bash
 chmod +x hack.bat
+```
+
+```bash
+./hack.bat
