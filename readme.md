@@ -4,8 +4,8 @@ Working in any launcher, including Android launchers.
 ### IF YOU ARE ON MOBILE/TABLET
 follow these steps if you are using phone
 
-1.Download Termux and Termux-x11 From Chrome
-2.Open it and enter this command
+1.Download Termux and Termux-x11 From Chrome.
+2.Open it and enter this command.
 ```bash
 wget https://github.com/kvsbuilders/smart-hack-client-1.8.9/blob/main/linux.sh
 ```
