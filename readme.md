@@ -28,7 +28,9 @@ nano /etc/sudoers
 <br>
 Find the a line "root ALL(=(ALL:ALL) ALL" Under that line write "smartnetwork ALL(=(ALL:ALL) ALL"<br>
 press ctrl+x then type y and press enter.<br>
-<h5>Now Enter These Commands</h5>
+<br>
+Now Enter These Commands
+
 ```bash
 su - smartnetwork
 ```
