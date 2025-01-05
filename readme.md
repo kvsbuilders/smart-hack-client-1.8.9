@@ -49,6 +49,9 @@ wget https://github.com/kvsbuilders/smart-hack-client-1.8.9/blob/main/start.sh
 ```bash
 mv start.sh /data/data/com.termux/files/usr/bin/start
 ```
+<br>
+Now Whenever You Need To start Desktop Just type "start" in Termux.<br>
+Now, Follow The Steps Of INSTALLATION FOR DESKTOPS.
 
 ### INSTALLATION FOR DESKTOPS
 
