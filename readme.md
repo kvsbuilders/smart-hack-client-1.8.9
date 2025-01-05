@@ -29,6 +29,18 @@ nano /etc/sudoers
 Find the a line "root ALL(=(ALL:ALL) ALL" Under that line write "smartnetwork ALL(=(ALL:ALL) ALL"<br>
 press ctrl+x then type y and press enter.<br>
 <h5>Now Enter These Commands</h5>
+```bash
+su - smartnetwork
+```
+```bash
+sudo apt install xfce4 -y
+```
+```bash
+exit
+```
+```bash
+exit
+```
 
 ### INSTALLATION
 
