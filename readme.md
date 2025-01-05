@@ -43,8 +43,14 @@ exit
 ```bash
 exit
 ```
+```bash
+wget https://github.com/kvsbuilders/smart-hack-client-1.8.9/blob/main/start.sh
+```
+```bash
+mv start.sh /data/data/com.termux/files/usr/bin/start
+```
 
-### INSTALLATION
+### INSTALLATION FOR DESKTOPS
 
 1. Make sure you have Linux because it doesn't work on Windows.
 2. Download it as a ZIP file.
